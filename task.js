@@ -16,8 +16,6 @@ function getArrayParams(arr) {
   return { min:min, max:max, avg:avg };
 }
 
-let arrOfArr=[[1, 2, 3, 4], [10, 20, -10, -20]];
-
 // Задание 2
 function worker(arr) {
   let sum = 0;
